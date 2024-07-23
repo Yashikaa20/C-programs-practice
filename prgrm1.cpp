@@ -1,3 +1,11 @@
+/*printing pattern
+  654321
+  654321
+  654321
+  654321
+  654321
+  654321   
+*/
 # include <iostream>
 using namespace std;
 int main(){
